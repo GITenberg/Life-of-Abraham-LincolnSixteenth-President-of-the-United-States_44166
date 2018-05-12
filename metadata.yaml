@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42615'
     url: http://www.gutenberg.org/2009/agents/42615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44166#Life-of-Abraham-LincolnSixteenth-President-of-the-United-States
 gutenberg_issued: '2013-11-12'
 gutenberg_type: Text
 identifiers:
