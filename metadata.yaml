@@ -1,0 +1,26 @@
+_repo: Life-of-Abraham-LincolnSixteenth-President-of-the-United-States_44166
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44166-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crosby, Frank
+    alias: Crosby, Franklin
+    gutenberg_agent_id: '42615'
+    url: http://www.gutenberg.org/2009/agents/42615
+description: ''
+gutenberg_issued: '2013-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44166'
+  lccn: '52054596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'E456'
+title: Life of Abraham Lincoln, Sixteenth President of the United States
+url: http://www.gutenberg.org/ebooks/44166
